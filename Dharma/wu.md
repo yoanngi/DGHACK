@@ -703,5 +703,13 @@ Le code qui nous intéresse est celui ci:
 
 C'est a cette endroit que les comparaisons sont faite pour lancé avant l'appel a printf qui nous dit que nous avons réussi.
 
+J'ai set les registres 
+```
+0x7ffff7fc8d0e <init+142>:	cmp    rdx,rax
+et 
+0x7ffff7fc8d1a <init+154>:	cmp    rax,0xfb4c
+```
+afin d'avoir le flag mais il n'était pas valide. Il fallait comprendre le code afin de donner le bon mot de passe et le flag était généré a partir de celui ci.
+
 Je n'ai pas eu le temps de terminé :/
 
