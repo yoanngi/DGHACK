@@ -1,7 +1,7 @@
 # Gitbad
 
 
-## wu
+## wu
 
 
 Se logger avec un identifiant et chercher la version de Gitlab:
