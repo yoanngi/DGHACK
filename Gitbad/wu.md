@@ -25,7 +25,7 @@ On refait donc la meme manip pour se connecter avec l'admin : 8e4684f1498aad8188
 
 On cherche un moment... au final, le repo stephan/my-secret-project est le seul intéressant.
 
-On se donne les droits dessus et on regardes les commits.
+On se donne les droits dessus et on regarde les commits.
 
 ![flag](./flag_gitbad.png)
 
