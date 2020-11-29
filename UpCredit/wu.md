@@ -39,3 +39,6 @@ Message:
 
 http://<IP>/payload.html
 ```
+
+Notre flag:
+W1nG4rD1um\L3v1os444! 
